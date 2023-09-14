@@ -1,4 +1,4 @@
-# clinical code library
+# Clinical Code Library
 This repository holds a collection of clinical codes published by NHS England 
 Each code set comes with it's own documentation
 
